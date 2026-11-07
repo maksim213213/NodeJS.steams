@@ -1,0 +1,8 @@
+{"movie":"Inception","director":"Christopher Nolan","year":2010,"rating":8.8,"decade":"2010s","length":"2h 28m"}
+{"movie":"The Matrix","director":"Lana Wachowski","year":1999,"rating":8.7,"decade":"1990s","length":"2h 16m"}
+{"movie":"Interstellar","director":"Christopher Nolan","year":2014,"rating":8.7,"decade":"2010s","length":"2h 49m"}
+{"movie":"Fight Club","director":"David Fincher","year":1999,"rating":8.8,"decade":"1990s","length":"2h 19m"}
+{"movie":"Parasite","director":"Bong Joon-ho","year":2019,"rating":8.5,"decade":"2010s","length":"2h 12m"}
+{"movie":"Spirited Away","director":"Hayao Miyazaki","year":2001,"rating":8.6,"decade":"2000s","length":"2h 5m"}
+{"movie":"Gladiator","director":"Ridley Scott","year":2000,"rating":8.5,"decade":"2000s","length":"2h 35m"}
+{"movie":"Whiplash","director":"Damien Chazelle","year":2014,"rating":8.5,"decade":"2010s","length":"1h 46m"}

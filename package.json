@@ -1,0 +1,19 @@
+{
+  "name": "nodejs.steams",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js EventEmitter timing and streaming CSV movie export exercises",
+  "type": "module",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo:time": "node src/examples/with-time.js",
+    "export:movies": "node src/examples/export-csv.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "csvtojson": "2.0.14"
+  }
+}
